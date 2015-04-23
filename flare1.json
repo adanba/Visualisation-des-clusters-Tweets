@@ -1,0 +1,135 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "TopWords",
+            "children": [
+                {
+                    "name": "TopClust0",
+                    "children": [
+                        {
+                            "name": "today",
+                            "size": 0.0356924993767
+                        },
+                        {
+                            "name": "experience",
+                            "size": 0.0166291117362
+                        },
+                        {
+                            "name": "deal",
+                            "size": 0.0157926220555
+                        },
+                        {
+                            "name": "service",
+                            "size": 0.0142468472433
+                        },
+                        {
+                            "name": "customer experience",
+                            "size": 0.0123922037791
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust1",
+                    "children": [
+                        {
+                            "name": "day",
+                            "size": 0.0197188464064
+                        },
+                        {
+                            "name": "revolutionizing",
+                            "size": 0.0180910533153
+                        },
+                        {
+                            "name": "open",
+                            "size": 0.0123978998274
+                        },
+                        {
+                            "name": "big deal",
+                            "size": 0.0100909960188
+                        },
+                        {
+                            "name": "smart",
+                            "size": 0.00761160181123
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust2",
+                    "children": [
+                        {
+                            "name": "ways",
+                            "size": 0.0260745304018
+                        },
+                        {
+                            "name": "design",
+                            "size": 0.0242102735615
+                        },
+                        {
+                            "name": "infographic",
+                            "size": 0.0233944045982
+                        },
+                        {
+                            "name": "important",
+                            "size": 0.020580049884
+                        },
+                        {
+                            "name": "real",
+                            "size": 0.0200938274322
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust3",
+                    "children": [
+                        {
+                            "name": "potential",
+                            "size": 0.00939683733358
+                        },
+                        {
+                            "name": "transform",
+                            "size": 0.00819493400907
+                        },
+                        {
+                            "name": "potential transform",
+                            "size": 0.00726106223175
+                        },
+                        {
+                            "name": "transform health",
+                            "size": 0.0070721984067
+                        },
+                        {
+                            "name": "data potential",
+                            "size": 0.00703858470842
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust4",
+                    "children": [
+                        {
+                            "name": "security",
+                            "size": 0.00774341459502
+                        },
+                        {
+                            "name": "analysis",
+                            "size": 0.00766594453594
+                        },
+                        {
+                            "name": "know",
+                            "size": 0.00715991489524
+                        },
+                        {
+                            "name": "information",
+                            "size": 0.00682848985956
+                        },
+                        {
+                            "name": "datascience",
+                            "size": 0.00603213049863
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

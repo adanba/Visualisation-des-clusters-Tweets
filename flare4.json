@@ -1,0 +1,135 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "TopWords",
+            "children": [
+                {
+                    "name": "TopClust0",
+                    "children": [
+                        {
+                            "name": "just",
+                            "size": 0.0287364113977
+                        },
+                        {
+                            "name": "talk",
+                            "size": 0.0262167165131
+                        },
+                        {
+                            "name": "using big",
+                            "size": 0.0163179556393
+                        },
+                        {
+                            "name": "use bigdata",
+                            "size": 0.0115488437534
+                        },
+                        {
+                            "name": "change",
+                            "size": 0.0110278702147
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust1",
+                    "children": [
+                        {
+                            "name": "companies",
+                            "size": 0.025415185236
+                        },
+                        {
+                            "name": "check",
+                            "size": 0.0206340558713
+                        },
+                        {
+                            "name": "says",
+                            "size": 0.0122990524837
+                        },
+                        {
+                            "name": "tech",
+                            "size": 0.0103733159094
+                        },
+                        {
+                            "name": "little",
+                            "size": 0.00956142928393
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust2",
+                    "children": [
+                        {
+                            "name": "data big",
+                            "size": 0.0154069897966
+                        },
+                        {
+                            "name": "ibm",
+                            "size": 0.0120973761209
+                        },
+                        {
+                            "name": "future",
+                            "size": 0.0105307406334
+                        },
+                        {
+                            "name": "rt",
+                            "size": 0.00908501823952
+                        },
+                        {
+                            "name": "privacy",
+                            "size": 0.00858265384796
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust3",
+                    "children": [
+                        {
+                            "name": "small",
+                            "size": 0.0129219805031
+                        },
+                        {
+                            "name": "care",
+                            "size": 0.00951527800516
+                        },
+                        {
+                            "name": "bigdata datascience",
+                            "size": 0.00847116755054
+                        },
+                        {
+                            "name": "potential",
+                            "size": 0.00844608342017
+                        },
+                        {
+                            "name": "health care",
+                            "size": 0.00790699590639
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust4",
+                    "children": [
+                        {
+                            "name": "security",
+                            "size": 0.0314653508421
+                        },
+                        {
+                            "name": "analysis",
+                            "size": 0.0263245237758
+                        },
+                        {
+                            "name": "stories",
+                            "size": 0.0234888710145
+                        },
+                        {
+                            "name": "datascience",
+                            "size": 0.02078282001
+                        },
+                        {
+                            "name": "answer",
+                            "size": 0.0165580666871
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

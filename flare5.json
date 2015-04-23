@@ -1,0 +1,135 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "TopWords",
+            "children": [
+                {
+                    "name": "TopClust0",
+                    "children": [
+                        {
+                            "name": "marketing",
+                            "size": 0.0265336131965
+                        },
+                        {
+                            "name": "blog",
+                            "size": 0.0208152823828
+                        },
+                        {
+                            "name": "hortonworks",
+                            "size": 0.0147446936008
+                        },
+                        {
+                            "name": "better",
+                            "size": 0.0146290721577
+                        },
+                        {
+                            "name": "solutions",
+                            "size": 0.012416202836
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust1",
+                    "children": [
+                        {
+                            "name": "internet",
+                            "size": 0.00879250384663
+                        },
+                        {
+                            "name": "right",
+                            "size": 0.00816377643934
+                        },
+                        {
+                            "name": "companies",
+                            "size": 0.00763312729146
+                        },
+                        {
+                            "name": "services",
+                            "size": 0.0075954720969
+                        },
+                        {
+                            "name": "time",
+                            "size": 0.00746154577327
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust2",
+                    "children": [
+                        {
+                            "name": "ibm",
+                            "size": 0.0329960987157
+                        },
+                        {
+                            "name": "make",
+                            "size": 0.0162640432549
+                        },
+                        {
+                            "name": "innovation",
+                            "size": 0.0138473464313
+                        },
+                        {
+                            "name": "digital",
+                            "size": 0.0128947268878
+                        },
+                        {
+                            "name": "technology",
+                            "size": 0.0126016595899
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust3",
+                    "children": [
+                        {
+                            "name": "great",
+                            "size": 0.0100003967265
+                        },
+                        {
+                            "name": "care",
+                            "size": 0.0089790654757
+                        },
+                        {
+                            "name": "health care",
+                            "size": 0.00790699590639
+                        },
+                        {
+                            "name": "potential transform",
+                            "size": 0.00726106223175
+                        },
+                        {
+                            "name": "transform health",
+                            "size": 0.0070721984067
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust4",
+                    "children": [
+                        {
+                            "name": "public",
+                            "size": 0.0172048635171
+                        },
+                        {
+                            "name": "enterprises",
+                            "size": 0.0115341610116
+                        },
+                        {
+                            "name": "public cloud",
+                            "size": 0.0113998443001
+                        },
+                        {
+                            "name": "survey",
+                            "size": 0.0113003981449
+                        },
+                        {
+                            "name": "moving",
+                            "size": 0.0100884869722
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

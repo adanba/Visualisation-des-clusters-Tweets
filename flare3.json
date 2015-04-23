@@ -1,0 +1,135 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "TopWords",
+            "children": [
+                {
+                    "name": "TopClust0",
+                    "children": [
+                        {
+                            "name": "read",
+                            "size": 0.0133748918205
+                        },
+                        {
+                            "name": "software",
+                            "size": 0.0131497062794
+                        },
+                        {
+                            "name": "today",
+                            "size": 0.010299434795
+                        },
+                        {
+                            "name": "just",
+                            "size": 0.00963220810385
+                        },
+                        {
+                            "name": "data data",
+                            "size": 0.00868208244829
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust1",
+                    "children": [
+                        {
+                            "name": "internet",
+                            "size": 0.0228871856326
+                        },
+                        {
+                            "name": "internet things",
+                            "size": 0.0208019624725
+                        },
+                        {
+                            "name": "trends",
+                            "size": 0.0134815061728
+                        },
+                        {
+                            "name": "predict",
+                            "size": 0.0125458672312
+                        },
+                        {
+                            "name": "internetofthings bigdata",
+                            "size": 0.0111291343487
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust2",
+                    "children": [
+                        {
+                            "name": "rt",
+                            "size": 0.0227184482603
+                        },
+                        {
+                            "name": "predictive",
+                            "size": 0.0203388170718
+                        },
+                        {
+                            "name": "privacy",
+                            "size": 0.0189055235189
+                        },
+                        {
+                            "name": "predictive analytics",
+                            "size": 0.0186238107905
+                        },
+                        {
+                            "name": "things",
+                            "size": 0.0167951388515
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust3",
+                    "children": [
+                        {
+                            "name": "health care",
+                            "size": 0.0309307785832
+                        },
+                        {
+                            "name": "transform",
+                            "size": 0.0308871758891
+                        },
+                        {
+                            "name": "potential transform",
+                            "size": 0.0300140626505
+                        },
+                        {
+                            "name": "data potential",
+                            "size": 0.0292918738535
+                        },
+                        {
+                            "name": "transform health",
+                            "size": 0.029233382015
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust4",
+                    "children": [
+                        {
+                            "name": "industry",
+                            "size": 0.0154685551533
+                        },
+                        {
+                            "name": "work",
+                            "size": 0.0147953592334
+                        },
+                        {
+                            "name": "book",
+                            "size": 0.0140747010631
+                        },
+                        {
+                            "name": "available",
+                            "size": 0.00927246917747
+                        },
+                        {
+                            "name": "security",
+                            "size": 0.00920229577855
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

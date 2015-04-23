@@ -1,0 +1,135 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "TopWords",
+            "children": [
+                {
+                    "name": "TopClust0",
+                    "children": [
+                        {
+                            "name": "skills",
+                            "size": 0.0116833513159
+                        },
+                        {
+                            "name": "marketing",
+                            "size": 0.0104363326995
+                        },
+                        {
+                            "name": "smart big",
+                            "size": 0.00998352850429
+                        },
+                        {
+                            "name": "comes data",
+                            "size": 0.00978332230221
+                        },
+                        {
+                            "name": "today",
+                            "size": 0.00932320743992
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust1",
+                    "children": [
+                        {
+                            "name": "wireless",
+                            "size": 0.0276268628185
+                        },
+                        {
+                            "name": "vegas bigdata",
+                            "size": 0.0271508758791
+                        },
+                        {
+                            "name": "startup vegas",
+                            "size": 0.0271508758791
+                        },
+                        {
+                            "name": "bigdata wireless",
+                            "size": 0.0270218801932
+                        },
+                        {
+                            "name": "crowdfunding",
+                            "size": 0.0268426095833
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust2",
+                    "children": [
+                        {
+                            "name": "study",
+                            "size": 0.0116543044395
+                        },
+                        {
+                            "name": "way",
+                            "size": 0.0114483620717
+                        },
+                        {
+                            "name": "computing",
+                            "size": 0.0107605480959
+                        },
+                        {
+                            "name": "rt",
+                            "size": 0.0102337334718
+                        },
+                        {
+                            "name": "machine",
+                            "size": 0.0098040351982
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust3",
+                    "children": [
+                        {
+                            "name": "potential",
+                            "size": 0.00970339148856
+                        },
+                        {
+                            "name": "care",
+                            "size": 0.00951527800516
+                        },
+                        {
+                            "name": "healthcare",
+                            "size": 0.00933665097214
+                        },
+                        {
+                            "name": "transform",
+                            "size": 0.0085602288565
+                        },
+                        {
+                            "name": "great",
+                            "size": 0.00829085682408
+                        }
+                    ]
+                },
+                {
+                    "name": "TopClust4",
+                    "children": [
+                        {
+                            "name": "changing",
+                            "size": 0.015471071353
+                        },
+                        {
+                            "name": "key",
+                            "size": 0.0112969461918
+                        },
+                        {
+                            "name": "did",
+                            "size": 0.00800783375894
+                        },
+                        {
+                            "name": "industry",
+                            "size": 0.00682973067495
+                        },
+                        {
+                            "name": "platform",
+                            "size": 0.00609268726169
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
